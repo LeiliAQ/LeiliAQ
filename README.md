@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @LeiliAQ
-- 👀 I’m interested in python
-- 🌱 I’m currently learning hardware programming
-, AI 
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in Front-end web development
+- 🌱 I’m currently learning more skills
+- 💞️ I’m looking to collaborate on react.js projects
 - 📫 How to reach me ...
 
 <!---
