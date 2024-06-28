@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leili
+- 👋 Hi, I’m Lili
 - 👀 I’m interested in Front-end web development
 - 📫 How to reach me ...
 
