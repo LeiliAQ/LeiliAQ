@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @LeiliAQ
+- 👋 Hi, I’m @Leili
 - 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning more skills
 - 📫 How to reach me ...
 
 <!---
