@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lili
+- 
 - 👀 I’m interested in web development
 - 📫 How to reach me ...
 
