@@ -1,6 +1,4 @@
-- 
-- 👀 I’m interested in web development
-- 📫 How to reach me ...
+
 
 <!---
 LeiliAQ/LeiliAQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
